@@ -1,9 +1,9 @@
 ### Olá! 👋
 
 
-**macedont/macedont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**macedont/macedont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:-->
 
 - 🔭 Hoje trabalho com back-end
 - 🌱 Estudando Go
