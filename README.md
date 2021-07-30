@@ -1,8 +1,5 @@
 ### Olá! 👋
 
-
-Here are some ideas to get you started:-->
-
 - 🔭 Atualmente trabalho com back-end na Onebrain
 - 🌱 Estudando Go e Kotlin
 
