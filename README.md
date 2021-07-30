@@ -1,12 +1,10 @@
 ### Olá! 👋
 
 
-<!--**macedont/macedont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:-->
 
-- 🔭 Hoje trabalho com back-end
-- 🌱 Estudando Go
+- 🔭 Atualmente trabalho com back-end na Onebrain
+- 🌱 Estudando Go e Kotlin
 
 
 <div>
