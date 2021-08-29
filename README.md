@@ -1,4 +1,4 @@
-### Olá! Sou Cleiton Rodrigues 👋
+### Olá! 👋
 
 - 🔭 Atualmente trabalho com back-end na Onebrain
 - 🌱 Estudando Go e Kotlin
